@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Pets Magic">
+  <rect width="64" height="64" rx="14" fill="#39603D"/>
+  <path d="M11.5 33.2c6.2-7.8 17-9.2 24.4-3.1a4.2 4.2 0 0 1 0 6.4c-7.4 6.1-18.2 4.7-24.4-3.3Z" fill="#FCEECD"/>
+  <path d="m35.6 34 12.1-8.5v16.9L35.6 34Z" fill="#FCEECD" opacity=".78"/>
+  <path d="M22.1 24.8c.8-3.4 3.4-5.9 6.9-6.7" fill="none" stroke="#FCEECD" stroke-width="2" stroke-linecap="round" opacity=".55"/>
+  <circle cx="18.5" cy="31.5" r="2" fill="#B5513A"/>
+  <circle cx="46.5" cy="12.5" r="1.8" fill="#FCEECD" opacity=".55"/>
+  <circle cx="52" cy="8.5" r="1" fill="#FCEECD" opacity=".3"/>
+</svg>
